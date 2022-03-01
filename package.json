@@ -19,7 +19,7 @@
   "dependencies": {
     "inquirer": "7.0.0",
     "request": "^2.81.0",
-    "requestretry": "3.1.0"
+    "requestretry": "7.0.0"
   },
   "homepage": "https://github.com/mukul6399/Dictionary_cli#readme"
 }
